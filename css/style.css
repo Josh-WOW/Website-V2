@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+body {
+	font-family: 'Work Sans', sans-serif;
+	/* Code from samonyt.xyz */
+	background: linear-gradient(90deg, #755BAF, #A589D9);
+	background-size: 400% 400%;
+	-webkit-animation: gradient 2s ease infinite;
+	-moz-animation: gradient 2s ease infinite;
+	-o-animation: gradient 2s ease infinite;
+	animation: gradient 2s ease infinite;
+	min-height: 100vh;
+}
+
+.title, .subtitle {
+	color: white;
+}
+
+a.navbar-item {
+	color: white;
+}
+
+a.navbar-item:hover {
+	background-color: transparent;
+}
+
+a {
+	color: white;
+}
+
+.navbar-menu {
+	background-color: transparent;
+}
+
+.avatar {
+	width: 250px;
+	border-radius: 100%;
+}
+
+table {
+	margin: auto;
+	border-radius: 2.5%;
+}
+
+tbody {
+	background-color: #ccbadc;
+}
+
+.fas, .fab {
+	color: white;
+}
+
+footer.footer {
+	background-color: transparent;
+}
