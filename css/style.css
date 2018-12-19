@@ -37,6 +37,12 @@ a {
 	border-radius: 100%;
 }
 
+.pfp {
+	border-radius: 100%;
+	width: 200px;
+	border: 1.5px solid whitesmoke;
+}
+
 table {
 	margin: auto;
 	border-radius: 2.5%;
